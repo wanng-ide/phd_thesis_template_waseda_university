@@ -7,6 +7,14 @@ This repository provides a comprehensive LaTeX template specifically designed fo
 - Overleaf Compatibility: Fully supports Overleaf with **LaTeX** compiler settings (TeX Live **2023**) for easy online editing and compilation.
 - Pre-Formatted Sections: Includes ready-to-use sections for images, tables, and equations, simplifying the process of adding visual and technical content.
 
+# Example Pages
+
+<img src="assets/latex_template1.jpg">
+
+<img src="assets/latex_template2.jpg">
+
+<img src="assets/latex_template3.jpg">
+
 # Cite
 
 ```
